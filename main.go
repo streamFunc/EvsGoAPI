@@ -1,6 +1,6 @@
 package main
 
-import "github.com/liboyuan7/EVSGoAPI/node"
+import "github.com/streamFunc/EVSGoAPI/node"
 
 func main() {
 	testEVS()

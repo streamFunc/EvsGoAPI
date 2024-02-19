@@ -1,3 +1,3 @@
-module github.com/liboyuan7/EVSGoAPI
+module github.com/streamFunc/EVSGoAPI
 
 go 1.19
